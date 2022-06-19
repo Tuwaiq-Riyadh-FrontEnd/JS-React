@@ -41,10 +41,10 @@
 #### Task 1
 - [Example1](Task1/example.html) 
 - [Example2](Task1/example2.html)
-- [Task](Task1/HTMLI.pdf)
+- [Task](Task1/readme.md)
 
 #### Task 2
-- [More HTML](Task2/HTMLII.pdf)
+- [More HTML](Task2/readme.md)
 
 ## Lab CSS
 - [CSS Lab](Task3)
