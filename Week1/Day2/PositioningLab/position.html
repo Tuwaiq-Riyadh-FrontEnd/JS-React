@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        
+        .parent {
+            background-color: #af47ff;
+            padding: 30px;
+            width: 300px;
+        }
+        .child {
+            background-color: #ff4797;
+            padding: 30px;
+        }
+        .box {
+            background-color: #f3ff47;
+            padding: 30px;
+            border: 2px solid #333;
+            border-style: dotted;
+            font-family: courier;
+            text-align: center;
+            font-size: 2rem;
+        }
+
+        /*
+            Move the item using:
+                top , right , bottom , left
+            //////////////////////
+            Relative:
+            ////////////////////////
+            A negative value for top will make the box move up relatively to its container. Or
+            .box {
+            position: relative;
+            top: -60px;
+            }
+            Check with positive top value
+
+
+            ////////////////////
+            Absolute
+            /////////////////////
+            .box {
+            
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            }
+            position: absolute;
+            top: 140px;
+            left: 50px;
+
+            Check with Child position as static and relative
+
+
+            ////////////
+            Fixed
+            ///////////////
+            .box {
+            position: fixed;
+            top: 0;
+            left: 0;
+            }
+        */
+    </style>
+</head>
+<body>
+    <h1>Positioning</h1>
+    <div class="parent">
+        <div class="child">
+           <div class="box">
+            <p>Test</p>
+          </div>
+        </div>
+      </div>
+</body>
+</html>
