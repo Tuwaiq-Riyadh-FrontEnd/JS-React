@@ -22,6 +22,8 @@
 ### Psuedo-Class Selectors
 * [Pseudo Class Selectors](Pseudo-class-selectors.pdf)
 
+### Positioning
+* [Positioning Lab](PositioningLab/)
 ### Flexbox
 * [Flexbox](Flexbox.pdf) 
 * [Flexbox Lab](flexbox-lab)
