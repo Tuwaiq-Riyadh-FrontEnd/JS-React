@@ -21,6 +21,16 @@ Write this question using if else statment, that is if:
 - Grade of 70 to 79 is a C
 - Grade of 60 to 69 is a D
 - Grade of 59 or below is a F
+## Age Check
+Write a program to check the age of a persona and do the following based on the age:
+
+- if age is less than 10 print 'You are still a baby'
+- if age is greater than 10 'You are too young to vote'
+- if age is greater than 15 print 'You are a teenager and cannot vote'
+- if age is greater than 21 print 'You can vote in the election'
+
+
+
 
 ## Leap year
 
