@@ -10,7 +10,7 @@ Create a file with name Week1Day3FnHw.js. Inside this file:
 
 ### Rolling Dice
 
-For this home work, you'll be creating a page that displays a random update of two dice every time the user hits the "Roll Dice" button. To get started, open the [app.js file](Homework/dice/js/app.js). Use the HTML and CSS code included in the Home work folder.
+For this home work, you'll be creating a page that displays a random update of two dice every time the user hits the "Roll Dice" button. To get started, open the [app.js file](Labs/dice/). Use the HTML and CSS code included in the Home work folder.
 
 ![](Homework/dice/img/diceroller.png)
 
