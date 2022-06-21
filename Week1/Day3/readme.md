@@ -41,12 +41,11 @@
 * [JS Event Handling](Task10/WDL1T10-JavaScriptIII_Scripting&EventHandling.pdf)
 
 ## Labs 
-- [Js Introduction](Task8/WDL1T08-JavaScriptI_Variables&Operators.pdf)
 - [Js Conditional statements](ConditionsLab.md)
-- [Js Conditional Statements and Loops](Task9/WDL1T09-JavaScriptII_ConditionalStatements&Looping.pdf)
 - [JS Loops LAB](Labs/LoopsExercise.md)
-- [JS Event Handling LAB](Task10/WDL1T10-JavaScriptIII_Scripting&EventHandling.pdf) 
 - [JS Arrays Lab](Labs/ArraysExercise.md)
+- [JS Event Handling LAB](Task10/WDL1T10-JavaScriptIII_Scripting&EventHandling.pdf) 
+- [More Labs](Labs/dice/)
 
 ## Home work
 
