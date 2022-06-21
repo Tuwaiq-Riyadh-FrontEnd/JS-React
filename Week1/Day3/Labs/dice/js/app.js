@@ -11,7 +11,7 @@ Creating a page where every time the user hits the "Roll Dice" button, the scree
 * combine 'dice-' and random2 to form the random class for the second die, secondDie
 * get the first die by ID and update the class to firstDie (hint: document.getElementById)
 * get the first die by ID and update the class to secondDie (hint:document.getElementById)
-
+You can update th
 3) Check to see if the Dice Roll has been hit, if it has run the diceRoll function.
 
 */

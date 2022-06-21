@@ -9,36 +9,39 @@
 * Functions, Loops Review
 
 ### Objectives ###
+
+- Get familiar with some Array methods 
+- Learn in details different ways to iterate arrays
+- Understand Arrow functions
+- Simplified way to learn the callback functions
 - Identify likely objects, attributes, and methods in real-world scenarios
 - Write a constructor for a JavaScript object
 - Write a prototype method for a JavaScript object
 - Implement and interface with JSON data
 - Learn JSON
-* Understand Arrow functions
-* Simplified way to learn the callback functions
-* Get familiar with some Array methods 
-* Learn in details different ways to iterate arrays
 
 ### Lectures ### 
 #### Slides
-* [JavaScript Arrays](JavaScriptIV.pptx)
+* [JS Array methods 1](Resources/Array_Methods.md)
+* [JS Array methods 2](https://www.w3schools.com/js/js_array_methods.asp)
+* [JS Array methods 3](https://javascript.info/array-methods)
+* [Array Iterator Methods](https://www.w3schools.com/js/js_array_iteration.asp)
+* [JS Arrow functions 1](Resources/Arrow_functions.md)
+* [JS Arrow functions 2](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+* [JS Callbacks 1](Resources/Callbacks.md)
+* [JS Callbacks 2](https://www.w3schools.com/js/js_callback.asp)
 * [JavaScript Objects](JavaScriptV.pptx)
 * [JSON](JavaScriptVI.pptx)
-* [JS Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-* [JS Callbacks](https://www.w3schools.com/js/js_callback.asp)
-* [JS Array methods](https://www.w3schools.com/js/js_array_methods.asp)
-* [JS Array methods 2](https://javascript.info/array-methods)
-* [Array Iterator Methods](https://www.w3schools.com/js/js_array_iteration.asp)
 
 #### Notes 
-* [JavaScript Arrays](Task11/WDL1T11-JavaScriptIV_Arrays.pdf)
 * [Objects Lecture](Objects.md)
 * [JavaScript Objects](Task12/WDL1T12-JavaScriptV_OOP.pdf) 
 
 ### Labs
+* [Array Methods Lab](Labs/Array_methods_lab.md)
 * [JS Objects Lab](Labs/Objects_Lab.md)
 * [JSON Lab](Task13/WDL1T13-JavaScriptVI_JSON.pdf)
-* [Array Methods Lab](Labs/Array_methods_lab.md)
+
 
 ### Homework 
 
