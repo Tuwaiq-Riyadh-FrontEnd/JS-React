@@ -45,7 +45,7 @@
 
 ### Homework 
 
-* [JS Arrays and Objects Homework](Homework.md)
+* [JS Arrays and Objects Homework](HomeWork.md)
 
 ### Additional Resources:
 
