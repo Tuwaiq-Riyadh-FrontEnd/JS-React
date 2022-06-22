@@ -30,6 +30,7 @@
 * [JS Arrow functions 2](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
 * [JS Callbacks 1](Resources/Callbacks.md)
 * [JS Callbacks 2](https://www.w3schools.com/js/js_callback.asp)
+* [JS Objects](objectsJS.pptx)
 * [JavaScript Objects](JavaScriptV.pptx)
 * [JSON](JavaScriptVI.pptx)
 
