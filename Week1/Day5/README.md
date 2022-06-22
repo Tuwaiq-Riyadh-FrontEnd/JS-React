@@ -45,7 +45,7 @@
   
 ### Project 1
 * [Project 1 Guidelines](ProjectGuideLines.md)
-*  
+  
 ## Additional Resources
 
 * [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
