@@ -3,20 +3,20 @@
 
 ### Objectives
 *After this lesson, you will be able to:*
-
+- Implement and interface with JSON data
+- Understand JSON
+- Understand Local Storage APIs (purpose, how to use them) 
+- Conditional Operator
 - Identify differences between the DOM and HTML.
 - Explain the methods and use the DOM in javascript.
 - Manipulate the DOM by using qurey selectors and functions.
 - Better understand JS by building your first real program in a group setting.
-- Learn more about how jQuery works with chaining methods together.
 - Dive into regular JS selectors (time permitting)
-- Understand Local Storage APIs (purpose, how to use them) 
 - Recap of concepts learned in JS
-- Conditional Operator
 - Project 1 Discussion.
   
 ### Lectures 
-
+* [JSON](JavaScriptVI.pptx)
 * [DOM](https://www.w3schools.com/js/js_htmldom.asp)
 * [Events](https://javascript.info/introduction-browser-events)
 * [local storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) 
@@ -26,7 +26,8 @@
 
   
 ### Labs
-
+* [JSON Lab 1](Labs/json)
+* [JSON Lab 2](Task13/WDL1T13-JavaScriptVI_JSON.pdf)
 * [DOM Lab](Labs/DOM/changeTheLogo_LAB.md)
 * [Some More Interesting Problems](Labs/Manipulation/)
 * [To-Do List](To-DoList)
