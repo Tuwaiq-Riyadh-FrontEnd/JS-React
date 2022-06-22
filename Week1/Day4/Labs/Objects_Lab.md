@@ -1,5 +1,5 @@
 
-# Week 2 day 1. JS Object lab
+# Week 1 day 4. JS Object lab
 
 ### Lab: The Reading List
 
